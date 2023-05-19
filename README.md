@@ -2,15 +2,25 @@
 
 simple sdk demo 
 step 1 - create an azure portal account
+
 step 2 - create an azure communication services resource
+
 step 3 - find the connection string for the resource
+
 step 4 - download ngrok and start a session for our port
+
 step 5 - start the service and register the event for download file status
+
 step 6 - start 2 acs test apps - https://acs-sample-app.azurewebsites.net/
+
 step 7 - start the dotnet project
+
 step 8 - start the call
+
 step 9 - answer call
+
 step 10 - end the call
+
 step 11 - download file, delete file
 
 /*disclaimer
