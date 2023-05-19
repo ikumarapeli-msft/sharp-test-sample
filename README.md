@@ -1,6 +1,7 @@
 # sharp-test-sample
 
 simple sdk demo 
+
 step 1 - create an azure portal account
 
 step 2 - create an azure communication services resource
